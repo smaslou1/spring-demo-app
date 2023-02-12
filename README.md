@@ -29,3 +29,4 @@ In this course you learn everything there is to learn about Spring Data JPA allo
 - `git checkout section-7`
 - `git checkout section-1`
 
+Sample JPA spring app
