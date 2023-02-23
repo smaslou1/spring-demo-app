@@ -1,6 +1,8 @@
 package com.example.demo.professor;
 
-
+/**
+ * Professor class
+ */
 public class Professor {
     private String name;
     private int professorID;
