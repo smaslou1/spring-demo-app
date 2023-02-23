@@ -1,0 +1,9 @@
+on:
+  push:
+    branches:
+      develop
+jobs:
+  print_status:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Push has been done on develop!"
